@@ -1,0 +1,58 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c557fd9a8b70942ae9c1430ce4fdef9f
+# Starting compiling UnityEngine.UI.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b9475aacfb283421e9469fa1b128b4a5
+# Starting compiling UnityEditor.TestRunner.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-97b917623ef7a497c83a65e43bb6c953
+# Starting compiling UnityEditor.UI.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-937bb7e0ac50940eb933846741f9a70e
+# Starting compiling Unity.Services.Core.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0635efd250561404a9b2871e54a52f2b
+# Starting compiling Unity.VSCode.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-50fbeb3231f0744649854217ecaa7474
+# Starting compiling Unity.RenderPipelines.Universal.Shaders.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-675948b9b56ec426089edcf1568653d2
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1cba7281cdcd04a8196fc97511954375
+# Starting compiling Unity.Timeline.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-20cad17c8d5b348cdb0eb4ec5bd19480
+# Starting compiling Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-91ca9ec0318e04c868ca159b3ce69643
+# Starting compiling Unity.TextMeshPro.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-49e66e374852d478dbffbdc5b94b8582
+# Starting compiling Unity.Searcher.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6689b279e35ce451b85470f334de159d
+# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f7db11229b5604132ad398eb779dc412
+# Starting compiling Unity.ShaderGraph.Utilities.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4dd0aed496bd6450aa3c8213aa8d3821
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a31298d7077a447fab906b010dbb5107
+# Starting compiling Unity.Rider.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0ae1c555ad84442248cde6fa8d52f017
+# Starting compiling Unity.RenderPipelines.Core.ShaderLibrary.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fff67cb8450964898bd64aa3c13411fd
+# Starting compiling Unity.Mathematics.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-297db95efe66e42f6bb77fc04afdbad1
+# Starting compiling Unity.Timeline.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0b5d2b0ed076e43c29eb5d09c71e8aac
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6fb18097d6005409fa28bc71017ffa76
+# Starting compiling Unity.ShaderGraph.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-91d80c2060ac5481bad515fe382b5918
+# Starting compiling Unity.RenderPipeline.Universal.ShaderLibrary.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e3f4611d05b9f4d808af41a642b06f5f
+# Starting compiling Unity.RenderPipelines.Core.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8a93e29b58b5b4ea8997bf482c60e788
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e7da0d37be9dc42dd9d023eb3c78efd2
+# Starting compiling Unity.RenderPipelines.Universal.Runtime.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ff73e8053ccc8406eb23402528376f6a
+# Starting compiling Unity.Mathematics.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ebc814a55f2164dbfaa66dbb4073715a
+# Starting compiling Unity.RenderPipelines.Universal.Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4c1bda3d3b4914b368bbe6145049b33a
+# Starting compiling Assembly-CSharp.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7dea1b45f46d047b58889139091ec745
+# Starting compiling Assembly-CSharp-Editor.dll
+/Applications/Unity/Hub/Editor/2020.3.36f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2be60259d956c468a921f8504cb5e69e
