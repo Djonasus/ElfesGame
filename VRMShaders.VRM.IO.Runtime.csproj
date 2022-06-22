@@ -56,21 +56,21 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/GLTF/Unlit_Transparent.cs" />
     <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/VRM/VRM_UnlitTransparentZWrite.cs" />
-    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/VRM/VRM_UnlitTexture.cs" />
     <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/VRM/PreExportShaders_VRM.cs" />
-    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/GLTF/PreExportShaders_GLTF.cs" />
-    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/GLTF/Unlit_Color.cs" />
-    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/VRM/VRM_UnlitCutout.cs" />
     <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/GLTF/Unlit_Texture.cs" />
-    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/VRM/VRM_UnlitTransparent.cs" />
-    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/ShaderProps.cs" />
+    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/GLTF/UniGLTF_UniUnlit.cs" />
+    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/GLTF/Unlit_Transparent.cs" />
+    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/GLTF/Unlit_Color.cs" />
     <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/GLTF/Standard.cs" />
     <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/GLTF/Unlit_Transparent_Cutout.cs" />
+    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/VRM/VRM_UnlitTexture.cs" />
+    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/GLTF/PreExportShaders_GLTF.cs" />
+    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/VRM/VRM_UnlitCutout.cs" />
+    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/VRM/VRM_UnlitTransparent.cs" />
+    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/ShaderProps.cs" />
     <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/VRM/VRM_MToon.cs" />
     <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/PreShaderPropExporter.cs" />
-    <Compile Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/GLTF/UniGLTF_UniUnlit.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/URP UniVrm/VRMShaders/VRM/IO/Runtime/VRMShaders.VRM.IO.Runtime.asmdef" />

@@ -56,9 +56,9 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/URP UniVrm/VRMShaders/GLTF/IO/Editor/Texture/EditorTextureUtility.cs" />
     <Compile Include="Assets/URP UniVrm/VRMShaders/GLTF/IO/Editor/Texture/Exporter/EditorTextureSerializer.cs" />
     <Compile Include="Assets/URP UniVrm/VRMShaders/GLTF/IO/Editor/Texture/Importer/TextureImporterConfigurator.cs" />
+    <Compile Include="Assets/URP UniVrm/VRMShaders/GLTF/IO/Editor/Texture/EditorTextureUtility.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/URP UniVrm/VRMShaders/GLTF/IO/Editor/VRMShaders.GLTF.IO.Editor.asmdef" />

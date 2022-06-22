@@ -56,18 +56,19 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Samples/UniHumanoid/RuntimeBvhLoader.cs" />
     <Compile Include="Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs" />
     <Compile Include="Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs" />
     <Compile Include="Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs" />
     <Compile Include="Assets/Scripts/SimpleCameraController.cs" />
     <Compile Include="Assets/StarterAssets/Mobile/Scripts/Utilities/MobileDisableAutoSwitchControls.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Samples/UniHumanoid/HumanBuilderTest.cs" />
     <Compile Include="Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs" />
     <Compile Include="Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs" />
     <Compile Include="Assets/StarterAssets/ThirdPersonController/Scripts/BasicRigidBodyPush.cs" />
     <Compile Include="Assets/TutorialInfo/Scripts/Readme.cs" />
     <Compile Include="Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Samples/UniHumanoid/RuntimeBvhLoader.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Samples/UniHumanoid/HumanBuilderTest.cs" />
+    <Compile Include="Assets/Scripts/Grass/PlaceObjectTool.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/URP UniVrm/ShaderGraphsMToon/Shaders/REFERENCE_INFO.txt" />
@@ -739,11 +740,21 @@
     <Reference Include="Unity.RenderPipelines.Core.Editor">
       <HintPath>Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.TerrainTools">
+      <HintPath>Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TerrainTools.Editor">
+      <HintPath>Library/ScriptAssemblies/Unity.TerrainTools.Editor.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="VRM.csproj">
-      <Project>{11817193-1D11-0EB8-23C3-8B4FBB1B3F5C}</Project>
-      <Name>VRM</Name>
+    <ProjectReference Include="UniHumanoid.csproj">
+      <Project>{DBF478A4-D4D3-24B9-9A07-5ACF8533AF3F}</Project>
+      <Name>UniHumanoid</Name>
+    </ProjectReference>
+    <ProjectReference Include="VRMShaders.GLTF.IO.Runtime.csproj">
+      <Project>{9F6CBE41-A156-279D-3936-C9C013082383}</Project>
+      <Name>VRMShaders.GLTF.IO.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="UniGLTF.csproj">
       <Project>{09D894D3-782C-806B-046E-4F4FFA8D7F3B}</Project>
@@ -753,13 +764,9 @@
       <Project>{93778A41-275A-1B22-A374-3EB72CCD436C}</Project>
       <Name>UniGLTF.Samples.ScreenSpace</Name>
     </ProjectReference>
-    <ProjectReference Include="UniHumanoid.csproj">
-      <Project>{DBF478A4-D4D3-24B9-9A07-5ACF8533AF3F}</Project>
-      <Name>UniHumanoid</Name>
-    </ProjectReference>
-    <ProjectReference Include="VRMShaders.GLTF.IO.Runtime.csproj">
-      <Project>{9F6CBE41-A156-279D-3936-C9C013082383}</Project>
-      <Name>VRMShaders.GLTF.IO.Runtime</Name>
+    <ProjectReference Include="VRM.csproj">
+      <Project>{11817193-1D11-0EB8-23C3-8B4FBB1B3F5C}</Project>
+      <Name>VRM</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

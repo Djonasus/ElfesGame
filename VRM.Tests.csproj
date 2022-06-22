@@ -56,20 +56,20 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/URP UniVrm/VRM/Tests/Exception.cs" />
+    <Compile Include="Assets/URP UniVrm/VRM/Tests/EnumUtilTest.cs" />
+    <Compile Include="Assets/URP UniVrm/VRM/Tests/VrmDividedMeshTests.cs" />
+    <Compile Include="Assets/URP UniVrm/VRM/Tests/InvalidFileNameTest.cs" />
+    <Compile Include="Assets/URP UniVrm/VRM/Tests/VRMTextureEnumerateTests.cs" />
+    <Compile Include="Assets/URP UniVrm/VRM/Tests/VRMLookAtTests.cs" />
+    <Compile Include="Assets/URP UniVrm/VRM/Tests/VRMTestAssets.cs" />
     <Compile Include="Assets/URP UniVrm/VRM/Tests/VRMLoadTests.cs" />
     <Compile Include="Assets/URP UniVrm/VRM/Tests/MeshTests.cs" />
-    <Compile Include="Assets/URP UniVrm/VRM/Tests/VRMTextureEnumerateTests.cs" />
-    <Compile Include="Assets/URP UniVrm/VRM/Tests/Exception.cs" />
     <Compile Include="Assets/URP UniVrm/VRM/Tests/VRMBlendShapeKeyTest.cs" />
-    <Compile Include="Assets/URP UniVrm/VRM/Tests/VRMLookAtTests.cs" />
     <Compile Include="Assets/URP UniVrm/VRM/Tests/UniVRMSerializeTests.cs" />
-    <Compile Include="Assets/URP UniVrm/VRM/Tests/EnumUtilTest.cs" />
-    <Compile Include="Assets/URP UniVrm/VRM/Tests/VRMTestAssets.cs" />
     <Compile Include="Assets/URP UniVrm/VRM/Tests/VersionTests.cs" />
     <Compile Include="Assets/URP UniVrm/VRM/Tests/NormalizeTests.cs" />
-    <Compile Include="Assets/URP UniVrm/VRM/Tests/VrmDividedMeshTests.cs" />
     <Compile Include="Assets/URP UniVrm/VRM/Tests/MToonTest.cs" />
-    <Compile Include="Assets/URP UniVrm/VRM/Tests/InvalidFileNameTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/URP UniVrm/VRM/Tests/VRM.Tests.asmdef" />

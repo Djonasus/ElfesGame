@@ -57,10 +57,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/URP UniVrm/UniGLTF/Editor/UniHumanoid/HumanPoseTransferEditor.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Editor/UniHumanoid/BoneMappingEditor.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Editor/UniHumanoid/HumanoidEditor.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Editor/UniHumanoid/MuscleInspectorEditor.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Editor/UniHumanoid/BoneMappingEditor.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Editor/UniHumanoid/bvhAssetPostprocessor.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Editor/UniHumanoid/MuscleInspectorEditor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/URP UniVrm/UniGLTF/Editor/UniHumanoid/UniHumanoid.Editor.asmdef" />

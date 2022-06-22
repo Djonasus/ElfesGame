@@ -57,30 +57,30 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/Json/JsonValueTests.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/MeshTests.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/GenericCallUtilityTests.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/MaterialTests.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/MeshExportValidatorTests.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/CacheEnumTest.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/Json/JsonFormatterTest.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/IWriteStreamTest.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/Json/JsonParserTest.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/GltfLoadTests.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/NumericTests.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/AssetTests.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/TextureTests.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/UniGLTFTests.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/TextureEnumerateTests.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/JsonDeserializeTests.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/CacheEnumTest.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/Json/JsonFormatterTest.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/M17NTest.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/Json/JsonDiffTests.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/GlbParserTests.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/GltfJsonUtilTests.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/MeshTests.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/GenericCallUtilityTests.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/MeshExportValidatorTests.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/IWriteStreamTest.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/TextureTests.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/UniGLTFTests.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/EditorTextureSerializerTests.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/TreeTest.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/TextureEnumerateTests.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/MatrixTests.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/Utf8StringTest.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/JsonDeserializeTests.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/Json/JsonSerializerTests.cs" />
-    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/GltfJsonUtilTests.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/MaterialTests.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/NumericTests.cs" />
+    <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniJSON/Utf8StringTest.cs" />
     <Compile Include="Assets/URP UniVrm/UniGLTF/Tests/UniGLTF/SpanLikeTests.cs" />
   </ItemGroup>
   <ItemGroup>
